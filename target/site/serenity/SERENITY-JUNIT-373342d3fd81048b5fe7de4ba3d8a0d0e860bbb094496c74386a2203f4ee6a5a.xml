@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="todo ok" skipped="0" tests="1" time="1.71" timestamp="2024-10-28 01:04:29"><testcase name="todo ok"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+co.sqasa.utils.WebSite.navigateTo(WebSite.java:13)&#13;
+co.sqasa.StepDef.LoginStepDef.open(LoginStepDef.java:18)&#13;
+</system-err></testcase></testsuite>
